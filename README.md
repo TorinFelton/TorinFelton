@@ -3,10 +3,6 @@ I'm a 1st year BSc Computer Science student at The University of Manchester. I'v
 
 That said, I still like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TorinFelton&show_icons=true&bg_color=0,1abc9c,2ecc71&text_color=34495e&hide_border=true&title_color=34495e&icon_color=34495e&hide_rank=true)
-
-
 # Favourite Projects
 
 ### hustl.io
