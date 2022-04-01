@@ -9,6 +9,11 @@ That said, I still like to maintain a diverse range of projects as the real pass
 
 # Favourite Projects
 
+### hustl.io
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=hustl.io&bg_color=0,1abc9c,2ecc71&text_color=34495e&hide_border=true&title_color=34495e&icon_color=34495e)](https://github.com/TorinFelton/hustl.io)
+
+Team project to build a competitive paper-trading based on live stock market data. I really enjoyed getting this platform up and running, and I was happy to be able to contribute both to front and back end. We managed to reach ALL of our initial goals and still have time for testing at the end, along with a live production server that I setup: https://hustlio.herokuapp.com
+
 ### Creating an Interpreter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=NEA_ProgrammingLanguage&bg_color=0,1abc9c,2ecc71&text_color=34495e&hide_border=true&title_color=34495e&icon_color=34495e)](https://github.com/TorinFelton/NEA_ProgrammingLanguage)
 
