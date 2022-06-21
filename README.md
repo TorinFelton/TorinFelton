@@ -1,11 +1,11 @@
 # About Me
-I'm a 1st year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I am aiming to get into a Fintech job in the future, preferably something to do with HFT / low-latency systems, although I'm interested in the field as a whole.
+I'm a 1st year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I'm aiming to get into an HFT company when I finish my course - I'm interested in low-level programming, mathematics, finance.
 
 That said, I still like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
 
 # Favourite Projects
 
-### hustl.io
+### hustl.io (team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=hustl.io&bg_color=0,1abc9c,2ecc71&text_color=000000&hide_border=true&title_color=000000&icon_color=34495e)](https://github.com/TorinFelton/hustl.io)
 
 Team project to build a competitive paper-trading based on live stock market data. I really enjoyed getting this platform up and running, and I was happy to be able to contribute both to front and back end. We managed to reach ALL of our initial goals and still have time for testing at the end, along with a live production server that I setup: https://hustlio.herokuapp.com
