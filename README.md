@@ -14,7 +14,7 @@ Team project to build a competitive paper-trading based on live stock market dat
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=NEA_ProgrammingLanguage&bg_color=0,1abc9c,2ecc71&text_color=000000&hide_border=true&title_color=000000&icon_color=34495e)](https://github.com/TorinFelton/NEA_ProgrammingLanguage)
 
 I thought I'd challenge myself for my secondary-school project: Create a working interpreter that can understand basic programming concepts, e.g. flow control, expressions, I/O, etc.
-I completed the code over a few weekends before the actual project was supposed to begin, just because I wanted to do it so badly and couldn't stop after I'd begun.
+I completed the code over a few weekends before the actual project was supposed to begin, just because I wanted to do it so badly and couldn't stop after I'd begun. In the end, I was extremely happy to receive a mark of 100% for it.
 
 I've since added a few extra things outside of the coursework, such as function definitions and fully Boolean/maths/mixed expression support e.g. `2*(31 + -1) == 3 && 1 != 20 * 3`
 
