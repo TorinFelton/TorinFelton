@@ -1,5 +1,5 @@
 # About Me
-I'm a 1st year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I'm aiming to get into an HFT company when I finish my course; I'm interested in low-level programming, mathematics, finance.
+I'm a 2nd year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I'm aiming to get into an HFT company when I finish my course; I'm interested in low-level programming, mathematics, finance.
 
 That said, I still like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
 
