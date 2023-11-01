@@ -5,10 +5,15 @@ That said, I still like to maintain a diverse range of projects as the real pass
 
 # Favourite Projects
 
+### Mini OS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=ARM_mini_OS&bg_color=0,1abc9c,2ecc71&text_color=000000&hide_border=true&title_color=000000&icon_color=34495e)](https://github.com/TorinFelton/ARM_mini_OS)
+
+Wrote, from scratch, a small operating system to run on an ARM CPU. Includes I/O interactions for a physical board, and software-based multi-threading support.
+
 ### hustl.io (team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=hustl.io&bg_color=0,1abc9c,2ecc71&text_color=000000&hide_border=true&title_color=000000&icon_color=34495e)](https://github.com/TorinFelton/hustl.io)
 
-Team project to build a competitive paper-trading based on live stock market data. I really enjoyed getting this platform up and running, and I was happy to be able to contribute both to front and back end. We managed to reach ALL of our initial goals and still have time for testing at the end, along with a live production server that I setup: https://hustlio.herokuapp.com
+Team project to build a competitive paper-trading based on live stock market data. I really enjoyed getting this platform up and running, and I was happy to be able to contribute both to front and back end. 
 
 ### Creating an Interpreter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TorinFelton&repo=NEA_ProgrammingLanguage&bg_color=0,1abc9c,2ecc71&text_color=000000&hide_border=true&title_color=000000&icon_color=34495e)](https://github.com/TorinFelton/NEA_ProgrammingLanguage)
