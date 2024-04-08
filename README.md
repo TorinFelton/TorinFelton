@@ -1,5 +1,5 @@
 # About Me
-I'm a 3rd year BSc Computer Science student at The University of Manchester. I've been programming as a hobby googoogoogahgah for a few years, building projects on here for fun. I will be joining Optiver as a software engineer in November 2024.
+I'm a 3rd year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I will be joining Optiver as a software engineer in November 2024.
 
 That said, I still like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
 
