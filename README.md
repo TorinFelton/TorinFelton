@@ -1,7 +1,9 @@
 # About Me
-I'm a 3rd year BSc Computer Science student at The University of Manchester. I've been programming as a hobby for a few years, building projects on here for fun. I will be joining Optiver as a software engineer in November 2024.
+hi :D
+I've just graduated from The University of Manchester with a BSc in Computer Science. I've been programming as a hobby for quite a while, occasionally building projects on here for fun. I've largely stopped uploading public projects here unless I find them particularly interesting.
+I like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
 
-That said, I still like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project.
+I will be joining Optiver as a software engineer in November 2024.
 
 # Favourite Projects
 
