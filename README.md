@@ -1,14 +1,10 @@
 ## hi :D
 
-I've just graduated from The University of Manchester with a BSc in Computer Science. I've been programming as a hobby for quite a while, occasionally building projects on here for fun. I've largely stopped uploading public projects here unless I find them particularly interesting.
-I like to maintain a diverse range of projects as the real passion I have is for fast-paced learning and a continuously challenging project. 
+I'm a software engineer working at Optiver in Amsterdam. I've been programming as a hobby for quite a while, occasionally building projects on here for fun. I've largely stopped uploading public projects unless I find them particularly interesting.
 
 ## **I have no particular allegiance to individual tech stacks/tools/languages/paradigms -- I cling to whatever I find interesting or challenging.** 
 
-I have experience across the board, such as in hardware design (verilog+FPGAs), various languages like Java/Python/C/ARM assembly, web development using JS frameworks, desktop application development in C#, operating systems development, etc.
-
-## Job stuff
-I have done an internship with Optiver for software engineering, and will be joining them as a full-time engineer in November 2024 (Amsterdam). 
+I have experience across the board, including a small amount of hardware design (verilog+FPGAs), various languages like C++/Java/Python/C/ARMv8, web development using JS frameworks, desktop application development in C#, etc.
 
 ## other hobbies???
 Piano is the other half of my life, though I'm also quite interested in fashion.
