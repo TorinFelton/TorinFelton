@@ -1,15 +1,6 @@
 ## hi :D
 
-I'm a software engineer working at Optiver in Amsterdam. I've been programming as a hobby for quite a while, occasionally building projects on here for fun. I've largely stopped uploading public projects unless I find them particularly interesting.
-
-## **I have no particular allegiance to individual tech stacks/tools/languages/paradigms -- I cling to whatever I find interesting or challenging.** 
-
-I have experience across the board, including a small amount of hardware design (verilog+FPGAs), various languages like C++/Java/Python/C/ARMv8, web development using JS frameworks, desktop application development in C#, etc.
-
-## other hobbies???
-Piano is the other half of my life, though I'm also quite interested in fashion.
-
-
+I work at Jane Street now so dont publish anything on here anymore. 
 
 
 
