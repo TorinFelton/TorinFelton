@@ -1,6 +1,6 @@
 ## hi :D
 
-I work at Jane Street now so dont publish much on here anymore. 
+I work at Jane Street now so don't publish much on here anymore. 
 
 
 
